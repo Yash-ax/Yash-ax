@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yash-ax
-- 👀 I’m interested in Java,Ethical hacking,Linux & Photoshop
-- 🌱 I’m currently learning  Java,Ethical hacking,Linux & Photoshop
+- 👀 I’m interested in cyberSecurityEthical hacking,Linux & Photoshop
+- 🌱 I’m currently learning  ,Ethical hacking,Linux & Photoshop
 - 💞️ I’m looking to collaborate on with high skill individuals and comapanies to learn and earn
 - 📫 reach me @ yashaspanku@gmail.com
 - 😄 Pronouns: He/Him
